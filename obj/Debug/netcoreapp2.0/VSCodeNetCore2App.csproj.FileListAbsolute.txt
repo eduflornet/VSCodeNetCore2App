@@ -1,0 +1,10 @@
+C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\bin\Debug\netcoreapp2.0\VSCodeNetCore2App.deps.json
+C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\bin\Debug\netcoreapp2.0\VSCodeNetCore2App.runtimeconfig.json
+C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\bin\Debug\netcoreapp2.0\VSCodeNetCore2App.runtimeconfig.dev.json
+C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\bin\Debug\netcoreapp2.0\VSCodeNetCore2App.dll
+C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\bin\Debug\netcoreapp2.0\VSCodeNetCore2App.pdb
+C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.csproj.CoreCompileInputs.cache
+C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.AssemblyInfoInputs.cache
+C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.AssemblyInfo.cs
+C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.dll
+C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.pdb
