@@ -8,3 +8,6 @@ C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\V
 C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.AssemblyInfo.cs
 C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.dll
 C:\Users\administro\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.pdb
+C:\Users\P068\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.csproj.CoreCompileInputs.cache
+C:\Users\P068\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.AssemblyInfoInputs.cache
+C:\Users\P068\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\VSCodeNetCore2App.AssemblyInfo.cs

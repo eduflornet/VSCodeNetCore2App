@@ -1,0 +1,4 @@
+C:\Users\P068\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\CityInfo.API.csprojResolveAssemblyReference.cache
+C:\Users\P068\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\P068\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfoInputs.cache
+C:\Users\P068\Documents\GitHub\VSCodeNetCore2App\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfo.cs
